@@ -14,8 +14,8 @@ my name is ammar areeda and this repo for reading notes for 201 for 15 days
 | read08| [go to it](https://ammar00areeda.github.io/Reading-notes-201/read08) |
 | read09| [go to it](https://ammar00areeda.github.io/Reading-notes-201/read09) |
 | read10| [go to it](https://ammar00areeda.github.io/Reading-notes-201/read10) |
-| read11|<!-- [go to it](https://ammar00areeda.github.io/Reading-notes-201/read11)--> |
-| read12|<!-- [go to it](https://ammar00areeda.github.io/Reading-notes-201/read12)--> |
+| read11| [go to it](https://ammar00areeda.github.io/Reading-notes-201/read11) |
+| read12| [go to it](https://ammar00areeda.github.io/Reading-notes-201/read12)--> |
 | read13|<!-- [go to it](https://ammar00areeda.github.io/Reading-notes-201/read13)--> |
 | read14|<!-- [go to it](https://ammar00areeda.github.io/Reading-notes-201/read14)--> |
 | read15|<!-- [go to it](https://ammar00areeda.github.io/Reading-notes-201/read15)--> |
